@@ -1,0 +1,22 @@
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.deps.json
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.runtimeconfig.json
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.dll
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.pdb
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.csprojAssemblyReference.cache
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.AssemblyInfo.cs
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.dll
+C:\Users\小九\source\repos\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.pdb
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.deps.json
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.runtimeconfig.json
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.runtimeconfig.dev.json
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.dll
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\bin\Debug\netcoreapp2.1\ConsoleApp16.pdb
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.csprojAssemblyReference.cache
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.csproj.CoreCompileInputs.cache
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.AssemblyInfoInputs.cache
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.AssemblyInfo.cs
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.dll
+C:\Users\72\Documents\Tencent Files\1552071719\FileRecv\ConsoleApp16\ConsoleApp16\obj\Debug\netcoreapp2.1\ConsoleApp16.pdb
